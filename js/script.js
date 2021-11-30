@@ -1,0 +1,10 @@
+const firstcomputerNumber = Math.floor(Math.random() * 100) + 1;
+alert(firstcomputerNumber);
+const secondcomputerNumber = Math.floor(Math.random() * 100) + 1;
+alert(secondcomputerNumber);
+const thirdcomputerNumber = Math.floor(Math.random() * 100) + 1;
+alert(thirdcomputerNumber);
+const fourcomputerNumber = Math.floor(Math.random() * 100) + 1;
+alert(fourcomputerNumber);
+const fivecomputerNumber = Math.floor(Math.random() * 100) + 1;
+alert(fivecomputerNumber);
