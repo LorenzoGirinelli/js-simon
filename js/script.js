@@ -14,6 +14,11 @@ setTimeout(myFunction, 5000);
 // NUMERI CHE L' UTENTE DEVE INSERIRE
 function  myFunction() {
     const userNumber = parseInt(prompt(`Inserisci i numeri visti in precendenza`));
-console.log(userNumber);
+    console.log(userNumber);
 }
 // VEDERE QUANTI NUMERI SONO STATI INDOVINATI
+const computerNumber = [firstcomputerNumber, secondcomputerNumber, thirdcomputerNumber, fourcomputerNumber, fivecomputerNumber];
+// console.log(computerNumber);
+for(let i = 0; i < firstcomputerNumber; i++) {
+    
+}
